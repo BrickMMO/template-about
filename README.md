@@ -6,13 +6,12 @@ This template is build using [Markdown](https://daringfireball.net/projects/mark
 
 ## Website Structure
 
-About websites will have the following structure. Each phase will have original 
+About websites will have the following structure: 
 
 ```
 project
 │   README.md
-│   index.markdown
-│   phases.markdown (blog) 
+│   index.markdown (blog)
 │
 └── _posts
 │   │   YYY-MM-DD-phase-1.markdown
@@ -28,6 +27,14 @@ project
 │
 └── images
 ```
+
+## Guidlines
+
+The following rules shoudl be followed with each about website:
+
+- Home page will include a brief system descrition followed by a blog list (one for phase)
+- Each phase will have a folder with the original PDF pitch and/or requirements document
+- 
 
 ***
 
