@@ -4,6 +4,26 @@ Each system will have a [Markdown](https://daringfireball.net/projects/markdown/
 
 This template is build using [Markdown](https://daringfireball.net/projects/markdown/) and [Jekyll](https://jekyllrb.com/). The [Jekyll](https://jekyllrb.com/) website uses the [Minima](https://github.com/jekyll/minima) theme. Creating and editing these websites will not require any knowledge of [Jekyll](https://jekyllrb.com/). But if interested, the setup instrucitons are available in the [github-pages-deply-jekyll repo](https://github.com/codeadamca/github-pages-deploy-jekyll).
 
+## Website Structure
+
+├── src
+│   ├── controller
+│   │   ├── **/*.css
+│   ├── views
+│   ├── model
+│   ├── index.js
+├── public
+│   ├── css
+│   │   ├── **/*.css
+│   ├── images
+│   ├── js
+│   ├── index.html
+├── dist (or build
+├── node_modules
+├── package.json
+├── package-lock.json 
+└── .gitignore
+
 ***
 
 ## Repository Resources
