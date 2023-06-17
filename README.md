@@ -6,21 +6,27 @@ This template is build using [Markdown](https://daringfireball.net/projects/mark
 
 ## Website Structure
 
+About websites will have the following structure. Each phase will have original 
+
 ```
 project
 │   README.md
 │   index.markdown
-│   phased.markdown (blog) 
+│   phases.markdown (blog) 
 │
-└─── _posts
+└── _posts
 │   │   YYY-MM-DD-phase-1.markdown
 │   │   YYY-MM-DD-phase-2.markdown
-│   
-└─── phase-1
-    │   pitch.markdown
-    │   pitch.pdf
-    │   requirements-document.markdown
-    │   requirements-document.pdf
+│   └── images
+│
+└── phase-1
+│   │   pitch.markdown
+│   │   pitch.pdf
+│   │   requirements-document.markdown
+│   │   requirements-document.pdf
+│   └── images
+│
+└── images
 ```
 
 ***
