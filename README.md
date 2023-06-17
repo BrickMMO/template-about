@@ -6,8 +6,8 @@ This template is build using [Markdown](https://daringfireball.net/projects/mark
 
 ## Website Structure
 
-├── src
-│   ├── controller
+├── src. 
+│   ├── controller. 
 │   │   ├── **/*.css
 │   ├── views
 │   ├── model
