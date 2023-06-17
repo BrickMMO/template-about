@@ -9,20 +9,18 @@ This template is build using [Markdown](https://daringfireball.net/projects/mark
 ```
 project
 │   README.md
-│   file001.txt    
+│   index.markdown
+│   phased.markdown (blog) 
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+└─── _posts
+│   │   YYY-MM-DD-phase-1.markdown
+│   │   YYY-MM-DD-phase-2.markdown
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└─── phase-1
+    │   pitch.markdown
+    │   pitch.pdf
+    │   requirements-document.markdown
+    │   requirements-document.pdf
 ```
 
 ***
