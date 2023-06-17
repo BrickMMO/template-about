@@ -6,7 +6,7 @@ This template is build using [Markdown](https://daringfireball.net/projects/mark
 
 ## Website Structure
 
-About websites will have the following structure (excluding [Markdown](https://daringfireball.net/projects/markdown/)/[Jekyll](https://jekyllrb.com/) files): 
+About websites will have the following structure (excluding [Minima](https://github.com/jekyll/minima) and [Jekyll](https://jekyllrb.com/) files): 
 
 ```
 project
