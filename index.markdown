@@ -1,5 +1,4 @@
 ---
-exclude: true
 layout: home
 list_title: Phases
 ---
