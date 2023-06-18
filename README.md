@@ -37,6 +37,8 @@ The following rules shoudl be followed with each about website:
 - Images related to a phase are named with `phase-<#>-<TITLE>.<EXT>`
 - All Markdown follows [Tidy](https://tidy.codeadam.ca/) guidelines
 
+> This repo is available to view at https://brickmmo.github.io/template-about/
+
 ***
 
 ## Repository Resources
