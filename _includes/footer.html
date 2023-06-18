@@ -3,28 +3,19 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading"></h2>
+    {%- if site.author -%}
+      {{ site.author | escape }}
+    {%- else -%}
+      {{ site.title | escape }}
+    {%- endif -%}
+    
+    &nbsp; | &nbsp;
 
-    <div class="footer-col-wrapper">
+    <a href="https://brickmmo.com">brickmmo.com</a>
 
-      <div class="wrapper">
+    <br>
 
-        {%- if site.author -%}
-          {{ site.author | escape }}
-        {%- else -%}
-          {{ site.title | escape }}
-        {%- endif -%}
-        
-        &nbsp; | &nbsp;
-
-        <a href="https://brickmmo.com">brickmmo.com</a>
-
-        <br>
-
-        {%- include social.html -%}
-
-      </div>
-    </div>
+    {%- include social.html -%}
 
   </div>
 
