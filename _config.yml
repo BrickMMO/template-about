@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: About a System
-email: brickmmo@gmail.com
+title: System Name
+author: BrickMMO
 description: >- # this means to ignore newlines until "baseurl:"
   Another BrickMMO system description.
 baseurl: "/" # the subpath of your site, e.g. /blog
