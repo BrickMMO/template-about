@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Phase 1 - Initial Production"
-date: 2023-06-17 16:41:42 -0400
+title: "Phase 2 - Improved Feature"
+date: 2023-01-10
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in arcu nec neque tristique interdum quis eget ligula. Quisque ullamcorper sem vitae purus varius dignissim. Nunc dictum sem placerat mauris facilisis bibendum. Morbi mattis nunc at purus maximus ornare.

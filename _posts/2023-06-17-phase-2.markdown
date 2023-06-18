@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Phase 1 - Initial Production"
+date: 2023-06-17
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in arcu nec neque tristique interdum quis eget ligula. Quisque ullamcorper sem vitae purus varius dignissim. Nunc dictum sem placerat mauris facilisis bibendum. Morbi mattis nunc at purus maximus ornare.
+
+Quisque lacinia, tellus at faucibus efficitur, ante erat vulputate mi, quis posuere odio velit id nulla. Morbi est mauris, fringilla et ullamcorper et, aliquam et erat.
+
+- Sed tempus purus vel urna accumsan euismod
+- Cras eu erat orci
+- Nam nibh sem, lobortis eget orci non, bibendum egestas nibh.
+
+Vestibulum sed porttitor metus, at tempor magna.
+
+## Phase Resources
+
+- [Frontend GitHub Repo](https://github.com/BrickMMO/template-about)
+- [Console GitHub Repo](https://github.com/BrickMMO/template-about)
+- [Pitch](https://github.com/BrickMMO/template-about)
+- [Requirements Document](https://github.com/BrickMMO/template-about)
