@@ -14,6 +14,13 @@ Quisque lacinia, tellus at faucibus efficitur, ante erat vulputate mi, quis posu
 
 Vestibulum sed porttitor metus, at tempor magna.
 
+```php
+<?php
+$brains = array("Spike", "EV3", "BrickPi");
+var_dump($brains);
+?>
+```
+
 ## Phase Resources
 
 - [Frontend GitHub Repo](https://github.com/BrickMMO/template-about)
