@@ -41,6 +41,9 @@ The following rules should be followed with each `system-about` website:
 > This repo is available to view at  
 > https://brickmmo.github.io/template-about-jekyll/
 
+> **Warning**  
+> This template will not be used. The `about-system` websites will be coded using Markdown.
+
 ***
 
 ## Repository Resources
