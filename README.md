@@ -38,7 +38,7 @@ The following rules should be followed with each `system-about` website:
 - Images related to a phase are named `phase-<#>-<TITLE>.<EXT>`
 - All Markdown follows [Tidy](https://tidy.codeadam.ca/) guidelines
 
-> **Note**
+> **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
 
 > This repo is available to view at  
