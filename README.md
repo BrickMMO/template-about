@@ -39,7 +39,7 @@ The following rules should be followed with each `system-about` website:
 - All Markdown follows [Tidy](https://tidy.codeadam.ca/) guidelines
 
 > This repo is available to view at  
-> https://brickmmo.github.io/template-about/
+> https://brickmmo.github.io/template-about-jekyll/
 
 ***
 
