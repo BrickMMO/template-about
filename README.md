@@ -1,12 +1,12 @@
 # About Website Template
 
-Each system will have a `system-about` website built with [Markdown](https://daringfireball.net/projects/markdown/)/[Jekyll](https://jekyllrb.com/). This website will be used to track contributions, phases, and documentation. This repo is a template for the `system-about websites`. These repos are named `system-about`.
+Each system will have a `system-documentation` website built with [Markdown](https://daringfireball.net/projects/markdown/)/[Jekyll](https://jekyllrb.com/). This website will be used to track contributions, phases, and documentation. This repo is a template for the `system-documentation websites`. These repos are named `system-documentation`.
 
 This template is buildt using [Markdown](https://daringfireball.net/projects/markdown/) and [Jekyll](https://jekyllrb.com/)with a slightly customized [Minima](https://github.com/jekyll/minima) theme (check the `_layouts` and `_includes` for customization). Creating and editing these websites will not require any knowledge of [Jekyll](https://jekyllrb.com/) or [Minima](https://github.com/jekyll/minima). But if interested, the setup instrucitons are available in the [github-pages-deply-jekyll](https://github.com/codeadamca/github-pages-deploy-jekyll) repo.
 
 ## Website Structure
 
-About websites will have the following structure (excluding [Minima](https://github.com/jekyll/minima) and [Jekyll](https://jekyllrb.com/) files): 
+Documentation websites will have the following structure (excluding [Minima](https://github.com/jekyll/minima) and [Jekyll](https://jekyllrb.com/) files): 
 
 ```
 project
@@ -28,7 +28,7 @@ project
 
 ## Guidlines
 
-The following rules should be followed with each `system-about` website:
+The following rules should be followed with each `system-documentation` website:
 
 - Home page includes a brief system descrition followed by a blog list
 - Each phase will have blog entry named `<YYYY>-<MM>-<DD>-phase-<#>.markdown` in the `_posts` folder
@@ -39,10 +39,10 @@ The following rules should be followed with each `system-about` website:
 - All Markdown follows [Tidy](https://tidy.codeadam.ca/) guidelines
 
 > This repo is available to view at  
-> https://brickmmo.github.io/template-about-jekyll/
+> https://brickmmo.github.io/template-documentation-jekyll/
 
 > **Warning**  
-> This template will not be used. The `about-system` websites will be coded using Markdown.
+> This template will not be used. The `documentation-system` websites will be coded using Markdown.
 
 ***
 
