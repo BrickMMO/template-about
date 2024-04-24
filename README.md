@@ -1,4 +1,4 @@
-# About Website Template
+# Documentation Website Template
 
 Each system will have a `system-documentation` website built with [Markdown](https://daringfireball.net/projects/markdown/)/[Jekyll](https://jekyllrb.com/). This website will be used to track contributions, phases, and documentation. This repo is a template for the `system-documentation websites`. These repos are named `system-documentation`.
 
